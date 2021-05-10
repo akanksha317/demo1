@@ -17,3 +17,5 @@ int main()
 {char a,k,n,s,h,a,g,u,p,t;
 cout<<a+k+a+n+k+s+h+a+g+u+p+t+a;
 return 0;}
+```
+![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png?raw=true)
